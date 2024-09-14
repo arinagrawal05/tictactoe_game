@@ -7,5 +7,5 @@ void main() => runApp(MaterialApp(
       theme: ThemeData(
         primaryColor: Colors.red,
       ),
-      home: Home(),
+      home: const Home(),
     ));
